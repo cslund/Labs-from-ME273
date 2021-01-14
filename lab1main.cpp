@@ -62,7 +62,7 @@ int main()
     /*****************************************************************************/
 
 
-    
+    /*
     //CASE 3
     //******While trying to run CASE 3 be sure to comment out the other case codes*******
     //set up variables that the user will input when prompted
@@ -78,7 +78,7 @@ int main()
     //actual calculation with 4.0 instead of 4
     m = (w + x + y + z)/4.0;
     cout << "The mean of your numbers is: " << m << endl;
-    
+    */
     
     return 0;
 }
